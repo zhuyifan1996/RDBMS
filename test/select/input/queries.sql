@@ -1,0 +1,13 @@
+SELECT * FROM Sailors S;
+
+SELECT * FROM Sailors S
+WHERE S.B = 200;
+
+SELECT * FROM Sailors S
+WHERE S.A = 2 OR S.A = 3;
+
+SELECT * FROM Sailors S
+WHERE S.C = 9001;
+
+SELECT * FROM Sailors S
+WHERE S.B = 200 AND S.C = 50;

@@ -1,0 +1,6 @@
+Sailors A B C
+Boats D E F
+Reserves G H
+query1 A B C
+query2 A B C
+query3 A B C

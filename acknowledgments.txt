@@ -1,0 +1,5 @@
+1
+http://stackoverflow.com/questions/11884141/deleting-file-and-directory-in-junit
+We copied and modified code from the above link (davidmontoyago's response)
+in order to clean up our output directory for testing purposes.
+-Trevor Edwards (tre23)

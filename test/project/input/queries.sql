@@ -1,0 +1,3 @@
+SELECT A FROM Sailors S;
+
+SELECT B,C FROM Sailors S;

@@ -1,0 +1,18 @@
+Sailors A B C
+Boats D E F
+Reserves G H
+out0 A B C
+out1 A B C
+out2 A B C
+out3 A B C
+out4 A B C
+out5 A B C
+out6 A B C D E F G H
+oout1 A B C
+oout2 A B C
+oout3 A B C
+pout1 A
+pout2 B C
+dout1 A B C
+dout2 B
+dout3 h

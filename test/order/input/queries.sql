@@ -1,0 +1,8 @@
+SELECT * FROM Sailors S
+ORDER BY S.A;
+
+SELECT * FROM Sailors S
+ORDER BY S.C;
+
+SELECT * FROM Sailors S
+ORDER BY S.C,S.B;
